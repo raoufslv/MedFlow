@@ -1,0 +1,31 @@
+{
+	"Nom": "Lynda",
+	"Prenom": "SAYOUD",
+	 "Username": "Lyn",
+	"password": "HeyHey",
+        
+	"mail":"lhfuhe@gmail.com",
+	"Speciality": "cardiologue",
+	"PhoneNumber": 0898493984,
+},
+{
+	"Nom": "Raouf",
+	"Prenom": "Abdallah",
+	 "Username": "raoufslv",
+	"password": "heh",
+        
+	"mail":"luhe@gmail.com",
+	"Speciality": "chirurgien",
+	"PhoneNumber": 779802987,
+},
+{
+	"Nom": "FDL",
+	"Prenom": "Meriem",
+	 "Username": "Mimi",
+	"password": "HH",
+        
+	"mail":"ooi@gmail.com",
+	"Speciality": "dermatologue",
+	"PhoneNumber": 999999,
+}
+

@@ -1,0 +1,35 @@
+{
+    "Patient_id": "6597773f17b159d31ece0d96",
+    "Numero_visite": 4,
+     "Date_visite":"2023-3-24",
+     "Motif_Consultation": "voila voila ce malade ce qu'il a",
+
+},
+{
+    "Patient_id": "6597773f17b159d31ece0d96",
+    "Numero_visite": 5,
+     "Date_visite":"2023-06-24",
+     "Motif_Consultation": "voila voila ce malade ----- ce qu'il a",
+
+},
+{
+    "Patient_id": "6597773f17b159d31ece0d96",
+    "Numero_visite": 7,
+     "Date_visite":"2023-09-24",
+     "Motif_Consultation": "voila voila ce malade --------- ce qu'il a",
+
+},
+{
+    "Patient_id": "65975a3814b3d603e0ba684b",
+    "Numero_visite": 8,
+     "Date_visite":"2023-09-24",
+     "Motif_Consultation": "voila voila ce malade --------- ce qu'il a",
+
+},
+{
+    "Patient_id": "659777f72f9ce7fa67d8345c",
+    "Numero_visite": 8,
+    "Date_visite":"2023-09-14",
+    "Motif_Consultation": "voila voila ce malade --------- ce qu'il a",
+
+},

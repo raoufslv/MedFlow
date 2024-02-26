@@ -1,0 +1,19 @@
+{
+    "Medicaments": [
+      {
+        "name": "paracetamol",
+        "dosage": "500mg",
+        "duree": "3 jours"
+      },
+      {
+        "name": "aspirine",
+        "dosage": "500mg",
+        "duree": "5 jours"
+      },
+      {
+        "name": "doliprane",
+        "dosage": "1000mg",
+        "duree": "2 jours"
+      }
+    ]
+}

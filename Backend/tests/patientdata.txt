@@ -1,0 +1,37 @@
+ {
+    "medecinId": "",
+    "Nom_p": "sd",
+    "Prenom_p": "hh",
+    "Date_naissance": "2023-3-24",
+    "Phone": 999999,
+    "Sexe": "Femme",
+    "ListeVisite": ["",""],
+    "SituationFamiliale": "Célibataire",
+    "Antecedants": "Ce patient avait une forte fievre les 5 derniers jours et ne pouvait pas meme pas se lever. 
+    il a etait aussi opérer quand il etait petit",
+ },
+
+  {
+    "medecinId": "",
+    "Nom_p": "sghhhd",
+    "Prenom_p": "hhdegg",
+    "Date_naissance": "2053-3-24",
+    "Phone": 96777779,
+    "Sexe": "Homme",
+    "ListeVisite": ["",""],
+    "SituationFamiliale": "Marié",
+    "Antecedants": "Ce patient avait une forte fievre les 5 derniers jours et ne pouvait pas meme pas se lever. 
+    il a etait aussi opérer quand il etait petit",
+ },
+   {
+    "medecinId": "",
+    "Nom_p": "shhd",
+    "Prenom_p": "hhgg",
+    "Date_naissance": "2053-3-24",
+    "Phone": 777779,
+    "Sexe": "Homme",
+    "ListeVisite": ["",""],
+    "SituationFamiliale": "Veuf",
+    "Antecedants": "Ce patient avait une forte fievre les 5 derniers jours et ne pouvait pas meme pas se lever. 
+    il a etait aussi opérer quand il etait petit",
+ },
