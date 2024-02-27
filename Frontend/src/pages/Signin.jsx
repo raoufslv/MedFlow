@@ -17,7 +17,7 @@ const Signin = () => {
     }),
     onSubmit: (values) => {
       axios
-        .post("users/signin", values)
+        .post("/users/signin", values)
         .then((response) => {
           console.log(response.data); // Handle successful response here
           localStorage.setItem("token", response.data.accessToken);
